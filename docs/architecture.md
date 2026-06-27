@@ -2,21 +2,7 @@
 
 ## High-Level Architecture
 
-Employee
-↓
-Power Apps Canvas Application
-↓
-SharePoint Requests List
-↓
-Power Automate Approval Flow
-↓
-Approver / Deputy
-↓
-Approved / Rejected
-↓
-SharePoint Status Update
-↓
-Email Notification
+Employee -> Power Apps Canvas Application -> SharePoint Requests List -> Power Automate Approval Flow -> Approver / Deputy -> Approved / Rejected -> SharePoint Status Update -> Email Notification
 
 ## Components
 
